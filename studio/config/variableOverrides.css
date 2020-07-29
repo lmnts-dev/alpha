@@ -1,0 +1,8 @@
+:root {
+  --brand-primary: #3DC8A6;
+}
+
+[class^="DefaultLayout_navBar"] {
+  background: var(--brand-primary);
+  color: #fff;
+}
